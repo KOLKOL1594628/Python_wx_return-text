@@ -1,0 +1,4 @@
+请使用打开cmd窗口，在保证python已有环境后执行以下命令
+modelscope download --model Qwen/Qwen2.5-0.5B-Instruct
+modelscope download --model ZhipuAI/GLM-OCR
+其他必要库请自行探索
